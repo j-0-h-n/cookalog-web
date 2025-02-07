@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="22.247" viewBox="0 0 33 22.247">
+  <g id="Camera" transform="translate(557.192 -758.55)" opacity="0.9">
+    <g id="Rectangle_240" data-name="Rectangle 240">
+      <rect id="Rectangle_375" data-name="Rectangle 375" width="33" height="22.247" rx="5" transform="translate(-557.192 758.55)" fill="none"/>
+      <path id="Path_739" data-name="Path 739" d="M-529.192,780.8h-23a5.006,5.006,0,0,1-5-5V763.55a5.006,5.006,0,0,1,5-5h23a5.006,5.006,0,0,1,5,5V775.8A5.006,5.006,0,0,1-529.192,780.8Zm-23-20.747a3.5,3.5,0,0,0-3.5,3.5V775.8a3.5,3.5,0,0,0,3.5,3.5h23a3.5,3.5,0,0,0,3.5-3.5V763.55a3.5,3.5,0,0,0-3.5-3.5Z" fill="#3bb3cf"/>
+    </g>
+    <g id="Ellipse_75" data-name="Ellipse 75">
+      <circle id="Ellipse_141" data-name="Ellipse 141" cx="5.191" cy="5.191" r="5.191" transform="translate(-545.698 764.483)" fill="none"/>
+      <path id="Path_740" data-name="Path 740" d="M-540.507,774.864a5.2,5.2,0,0,1-5.191-5.19,5.2,5.2,0,0,1,5.191-5.192,5.2,5.2,0,0,1,5.191,5.192A5.2,5.2,0,0,1-540.507,774.864Zm0-8.382a3.2,3.2,0,0,0-3.191,3.192,3.194,3.194,0,0,0,3.191,3.19,3.194,3.194,0,0,0,3.191-3.19A3.2,3.2,0,0,0-540.507,766.482Z" fill="#3bb3cf"/>
+    </g>
+  </g>
+</svg>

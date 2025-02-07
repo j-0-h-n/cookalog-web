@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.338" height="19.001" viewBox="0 0 18.338 19.001">
+  <g id="Filters" transform="translate(-51.058 -61.796)">
+    <path id="Path_576" data-name="Path 576" d="M68.646,65.046H51.808a.75.75,0,1,1,0-1.5H68.646a.75.75,0,1,1,0,1.5Z" fill="#FF5200"/>
+    <path id="Path_577" data-name="Path 577" d="M68.646,79.046H51.808a.75.75,0,0,1,0-1.5H68.646a.75.75,0,0,1,0,1.5Z" fill="#FF5200"/>
+    <path id="Path_578" data-name="Path 578" d="M68.646,72.046H51.808a.75.75,0,0,1,0-1.5H68.646a.75.75,0,0,1,0,1.5Z" fill="#FF5200"/>
+    <g id="Ellipse_60" data-name="Ellipse 60">
+      <circle id="Ellipse_120" data-name="Ellipse 120" cx="2.5" cy="2.5" r="2.5" transform="translate(60.238 61.797)" fill="#fff"/>
+      <path id="Path_579" data-name="Path 579" d="M62.738,66.8a2.5,2.5,0,1,1,2.5-2.5A2.5,2.5,0,0,1,62.738,66.8Zm0-4a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,62.738,62.8Z" fill="#FF5200"/>
+    </g>
+    <g id="Ellipse_61" data-name="Ellipse 61">
+      <circle id="Ellipse_121" data-name="Ellipse 121" cx="2.5" cy="2.5" r="2.5" transform="translate(53.641 68.797)" fill="#fff"/>
+      <path id="Path_580" data-name="Path 580" d="M56.141,73.8a2.5,2.5,0,1,1,2.5-2.5A2.5,2.5,0,0,1,56.141,73.8Zm0-4a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,56.141,69.8Z" fill="#FF5200"/>
+    </g>
+    <g id="Ellipse_62" data-name="Ellipse 62">
+      <circle id="Ellipse_122" data-name="Ellipse 122" cx="2.5" cy="2.5" r="2.5" transform="translate(60.238 75.797)" fill="#fff"/>
+      <path id="Path_581" data-name="Path 581" d="M62.738,80.8a2.5,2.5,0,1,1,2.5-2.5A2.5,2.5,0,0,1,62.738,80.8Zm0-4a1.5,1.5,0,1,0,1.5,1.5A1.5,1.5,0,0,0,62.738,76.8Z" fill="#FF5200"/>
+    </g>
+  </g>
+</svg>

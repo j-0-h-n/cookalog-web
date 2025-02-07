@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18.001" viewBox="0 0 18 18.001">
+  <g id="Print-2" transform="translate(69.192 -762.814)">
+    <g id="Rectangle_31-10" data-name="Rectangle 31-10">
+      <rect id="Rectangle_365" data-name="Rectangle 365" width="18" height="14" rx="3" transform="translate(-69.192 765.815)" fill="#fff"/>
+      <path id="Path_725" data-name="Path 725" d="M-54.192,779.814h-12a3,3,0,0,1-3-3v-8a3,3,0,0,1,3-3h12a3,3,0,0,1,3,3v8A3,3,0,0,1-54.192,779.814Zm-12-12.5a1.5,1.5,0,0,0-1.5,1.5v8a1.5,1.5,0,0,0,1.5,1.5h12a1.5,1.5,0,0,0,1.5-1.5v-8a1.5,1.5,0,0,0-1.5-1.5Z" fill="#bcbcbc"/>
+    </g>
+    <rect id="Rectangle_366" data-name="Rectangle 366" width="11" height="1" transform="translate(-65.692 772.814)" fill="#bcbcbc"/>
+    <g id="Rectangle_72-2" data-name="Rectangle 72-2">
+      <path id="Path_726" data-name="Path 726" d="M-65.192,772.815h10v7a1,1,0,0,1-1,1h-8a1,1,0,0,1-1-1v-7Z" fill="#fff"/>
+      <path id="Path_727" data-name="Path 727" d="M-56.192,780.814h-8a1,1,0,0,1-1-1v-6a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1v6A1,1,0,0,1-56.192,780.814Zm-8-7v6h8v-6Zm0-.5v.5h0Z" fill="#bcbcbc"/>
+    </g>
+    <g id="Rectangle_73-2" data-name="Rectangle 73-2">
+      <rect id="Rectangle_367" data-name="Rectangle 367" width="10" height="4" rx="1" transform="translate(-65.192 762.815)" fill="#fff"/>
+      <path id="Path_728" data-name="Path 728" d="M-56.192,766.814h-8a1,1,0,0,1-1-1v-2a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1v2A1,1,0,0,1-56.192,766.814Zm-8-3v2h8v-2Zm0-.5v.5h0Z" fill="#bcbcbc"/>
+    </g>
+    <rect id="Rectangle_368" data-name="Rectangle 368" width="7" height="1" transform="translate(-63.692 775.814)" fill="#bcbcbc"/>
+    <rect id="Rectangle_369" data-name="Rectangle 369" width="7" height="1" transform="translate(-63.692 777.814)" fill="#bcbcbc"/>
+    <circle id="Ellipse_23-2" data-name="Ellipse 23-2" cx="1" cy="1" r="1" transform="translate(-65.192 769.815)" fill="#bcbcbc"/>
+  </g>
+</svg>

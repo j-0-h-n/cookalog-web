@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 25 28.751" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(-867.81 -418.8)" data-name="Site Go Nav">
+<g data-name="Rectangle 248">
+<path d="M890.808,447.547h-21a2,2,0,0,1-2-2V420.8a2,2,0,0,1,2-2h21a2,2,0,0,1,2,2v24.751A2,2,0,0,1,890.808,447.547Zm-21-27.251a.5.5,0,0,0-.5.5v24.751a.5.5,0,0,0,.5.5h21a.5.5,0,0,0,.5-.5V420.8a.5.5,0,0,0-.5-.5Z" fill="#0d2762" data-name="Path 745"/>
+</g>
+<rect transform="translate(868.31 424.46)" width="23" height="1" fill="#0d2762" data-name="Rectangle 378"/>
+<g data-name="Group 1323">
+<g data-name="Ellipse 58">
+<path d="m888.81 423.3a1 1 0 1 1 1 -1 1 1 0 0 1 -1 1zm0-1.5v0.5z" fill="#0d2762" data-name="Path 746"/>
+</g>
+<g data-name="Ellipse 59">
+<path d="m885.81 423.3a1 1 0 1 1 1 -1 1 1 0 0 1 -1 1zm0-1.5v0.5z" fill="#0d2762" data-name="Path 747"/>
+</g>
+<g data-name="Ellipse 60-2">
+<path d="m882.81 423.3a1 1 0 1 1 1 -1 1 1 0 0 1 -1 1zm0-1.5v0.5z" fill="#0d2762" data-name="Path 748"/>
+</g>
+</g>
+<g fill="#0d2762" data-name="Group 1324-2">
+<path d="m886.25 436.46h-13.444a1 1 0 0 1 0 -2h13.444a1 1 0 0 1 0 2z" data-name="Path 525"/>
+<path d="M886.252,436.459a1,1,0,0,1-.707-.293l-3.667-3.667a1,1,0,0,1,1.414-1.414l3.667,3.667a1,1,0,0,1-.707,1.707Z" data-name="Path 526"/>
+<path d="M882.585,440.132a1,1,0,0,1-.707-1.707l3.667-3.668a1,1,0,1,1,1.438,1.389l-.024.025-3.667,3.668A1,1,0,0,1,882.585,440.132Z" data-name="Path 527"/>
+</g>
+</g>
+</svg>

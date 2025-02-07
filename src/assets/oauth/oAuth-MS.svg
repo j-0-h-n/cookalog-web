@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="159.852" height="49.688" viewBox="0 0 159.852 49.688">
+  <defs>
+    <filter id="Rectangle_102" x="0" y="0" width="159.852" height="49.688" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="MS" transform="translate(9 9)">
+    <g id="btn_google_light_normal_ios" transform="translate(0 0)">
+      <g id="btn_google_light_normal" transform="translate(0 0)">
+        <g id="button">
+          <g id="button-bg">
+            <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Rectangle_102)">
+              <rect id="Rectangle_102-2" data-name="Rectangle 102" width="141.852" height="31.688" rx="2" transform="translate(9 9)" fill="#fff"/>
+            </g>
+            <rect id="Rectangle_103" data-name="Rectangle 103" width="141.852" height="31.688" rx="2" fill="none"/>
+            <rect id="Rectangle_104" data-name="Rectangle 104" width="141.852" height="31.688" rx="2" fill="none"/>
+            <rect id="Rectangle_105" data-name="Rectangle 105" width="141.852" height="31.688" rx="2" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_223" data-name="Group 223" transform="translate(10.012 8.502)">
+          <rect id="Rectangle_98" data-name="Rectangle 98" width="6.956" height="6.956" fill="#f25022"/>
+          <rect id="Rectangle_99" data-name="Rectangle 99" width="6.956" height="6.956" transform="translate(0 7.729)" fill="#00a4ef"/>
+          <rect id="Rectangle_100" data-name="Rectangle 100" width="6.956" height="6.956" transform="translate(7.729)" fill="#7fba00"/>
+          <rect id="Rectangle_101" data-name="Rectangle 101" width="6.956" height="6.956" transform="translate(7.729 7.729)" fill="#ffb900"/>
+        </g>
+      </g>
+    </g>
+    <text id="Sign_in_with_Microsoft" data-name="Sign in with Microsoft" transform="translate(34.396 20.191)" fill="#707070" font-size="10" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Sign in with Microsoft</tspan></text>
+  </g>
+</svg>

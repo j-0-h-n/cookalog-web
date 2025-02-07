@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.5"
+   height="19.478"
+   viewBox="0 0 18.5 19.478"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="delete.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="48.464933"
+     inkscape:cx="9.25"
+     inkscape:cy="9.7390003"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     id="Delete"
+     transform="translate(429.089 -181.059)">
+    <g
+       id="Rectangle_26"
+       data-name="Rectangle 26">
+      <path
+         id="Path_600"
+         data-name="Path 600"
+         d="M-415.447,200.537h-8.783a3,3,0,0,1-3-3V187.254a1.5,1.5,0,0,1,1.5-1.5h11.783a1.5,1.5,0,0,1,1.5,1.5v10.283A3,3,0,0,1-415.447,200.537Zm-10.283-13.283v10.283a1.5,1.5,0,0,0,1.5,1.5h8.783a1.5,1.5,0,0,0,1.5-1.5V187.254Zm0-.75v.75h0Z"
+         fill="#3bb3cf" />
+    </g>
+    <path
+       id="Path_601"
+       data-name="Path 601"
+       d="M-411.339,186.874h-17a.75.75,0,0,1-.75-.75.75.75,0,0,1,.75-.75h17a.75.75,0,0,1,.75.75A.75.75,0,0,1-411.339,186.874Z"
+       fill="#3bb3cf" />
+    <g
+       id="Rectangle_27"
+       data-name="Rectangle 27">
+      <path
+         id="Path_603"
+         data-name="Path 603"
+         d="M-416.166,186.494h-7.347a1.5,1.5,0,0,1-1.5-1.5v-.935a3,3,0,0,1,3-3h4.347a3,3,0,0,1,3,3v.935A1.5,1.5,0,0,1-416.166,186.494Zm-5.847-3.935a1.5,1.5,0,0,0-1.5,1.5v.935h7.348v-.935a1.5,1.5,0,0,0-1.5-1.5Z"
+         fill="#3bb3cf" />
+    </g>
+    <path
+       id="Path_604"
+       data-name="Path 604"
+       d="M-422.426,196.2a.75.75,0,0,1-.75-.75v-4.608a.75.75,0,0,1,.75-.75.75.75,0,0,1,.75.75v4.608A.75.75,0,0,1-422.426,196.2Z"
+       fill="#3bb3cf" />
+    <path
+       id="Path_605"
+       data-name="Path 605"
+       d="M-417.252,196.2a.75.75,0,0,1-.75-.75v-4.608a.75.75,0,0,1,.75-.75.75.75,0,0,1,.75.75v4.608A.75.75,0,0,1-417.252,196.2Z"
+       fill="#3bb3cf" />
+  </g>
+</svg>
