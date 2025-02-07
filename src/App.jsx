@@ -9,6 +9,7 @@ function App() {
   const [token, setToken] = useState('');
   const [loggedInUser, setLoggedInUser] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
+  const [expandedCard, setExpandedCard] = useState(null);
 
   const handleSignIn = async () => {
     try {
@@ -60,10 +61,14 @@ function App() {
         body: JSON.stringify({ searchText: searchQuery }),
       });
       const data = await response.json();
-      setResults(data.results);
+      setResults(data.recipes);
     } catch (error) {
       console.error('Error fetching search results:', error);
     }
+  };
+
+  const toggleCard = (id) => {
+    setExpandedCard(expandedCard === id ? null : id);
   };
 
   return (
@@ -85,15 +90,22 @@ function App() {
             <button onClick={handleSearch}>Search</button>
           </div>
           <div className="results-container">
-            {results.length > 0 ? (
-              <ul>
-                {results.map((result, index) => (
-                  <li key={index}>{result}</li>
-                ))}
-              </ul>
-            ) : (
-              <p>No results found</p>
-            )}
+            <p>Found {results.length} results</p>
+            {results.map((recipe) => (
+              <div key={recipe.id} className="card" onClick={() => toggleCard(recipe.id)}>
+                <h2>{recipe.recipeName}</h2>
+                <p>{recipe.bookTitle}</p>
+                <p>{recipe.author}</p>
+                <p>Page - {recipe.recipeStartPage}</p>
+                {expandedCard === recipe.id && (
+                  <ul>
+                    {recipe.ingredients.map((ingredient, index) => (
+                      <li key={index}>{ingredient.ingredientText}</li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            ))}
           </div>
         </>
       ) : (
