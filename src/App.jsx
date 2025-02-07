@@ -8,6 +8,7 @@ function App() {
   const [password, setPassword] = useState('');
   const [token, setToken] = useState('');
   const [loggedInUser, setLoggedInUser] = useState('');
+  const [errorMessage, setErrorMessage] = useState('');
 
   const handleSignIn = async () => {
     try {
@@ -18,11 +19,18 @@ function App() {
         },
         body: JSON.stringify({ email, password }),
       });
-      const token = await response.text();
-      setToken(token);
-      setLoggedInUser(email);
+
+      if (response.status === 200) {
+        const token = await response.text();
+        setToken(token);
+        setLoggedInUser(email);
+        setErrorMessage('');
+      } else {
+        setErrorMessage('Login failed');
+      }
     } catch (error) {
       console.error('Error signing in:', error);
+      setErrorMessage('Login failed');
     }
   };
 
@@ -106,6 +114,7 @@ function App() {
           />
           <p></p>
           <button onClick={handleSignIn}>Sign In</button>
+          {errorMessage && <p className="error-message">{errorMessage}</p>}
         </div>
       )}
     </>
