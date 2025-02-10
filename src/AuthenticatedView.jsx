@@ -3,11 +3,11 @@
 function AuthenticatedView({ loggedInUser, handleSignOut, searchQuery, setSearchQuery, handleSearch, results, toggleCard, expandedCard }) {
   return (
     <div className="container mx-auto p-4 bg-white bg-opacity-75 rounded-lg shadow-lg">
-      <h1 className="text-4xl font-bold text-center mb-8">Cookalog</h1>
+      <h1 className="text-4xl font-bold text-center mb-8 underline">Cookalog Recipe Search</h1>
       <div className="auth-container flex justify-between items-center mb-4">
         <span className="text-lg">Welcome, {loggedInUser}</span>
         <button className="btn btn-primary" onClick={handleSignOut}>
-          <i className="fas fa-sign-out-alt"></i> Sign Out
+          <i className="fas fa-sign-out-alt  bg-blue-500 text-white p-2 rounded-full hover:bg-blue-600"></i> Sign Out
         </button>
       </div>
       <div className="search-container flex mb-4">
@@ -15,11 +15,11 @@ function AuthenticatedView({ loggedInUser, handleSignOut, searchQuery, setSearch
           type="text"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
-          placeholder="Search..."
+          placeholder="Ingredients to search for..."
           className="input input-bordered flex-grow mr-2"
         />
         <button className="btn btn-primary" onClick={handleSearch}>
-          <i className="fas fa-search"></i> Search
+          <i className="fas fa-search bg-blue-500 text-white p-2 rounded-full hover:bg-blue-600"></i> Search
         </button>
       </div>
       <div className="results-container">

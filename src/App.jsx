@@ -25,7 +25,7 @@ function App() {
   };
 
   return (
-    <div className={`min-h-screen flex items-center justify-center ${!token ? 'bg-cover bg-center' : ''}`} style={{ backgroundImage: !token ? "url('/src/assets/images/a female character looking for a cook book in the bookshelf with a magnifying glass.png')" : 'none' }}>
+    <div className={`min-h-screen bg-gray-200 flex items-center justify-center ${!token ? 'bg-cover bg-center' : ''}`} >
       {token ? (
         <AuthenticatedView
           loggedInUser={loggedInUser}

@@ -4,7 +4,7 @@ function LoginForm({ email, setEmail, password, setPassword, handleSignIn, error
   return (
     <div className="bg-gray-200 flex items-center justify-center min-h-screen">
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-sm w-full">
-        <h2 className="text-2xl font-bold mb-6 text-center">Welcome to Cookalog</h2>
+        <h2 className="text-6xl font-bold mb-6 text-center">Welcome to Cookalog</h2>
         <form onSubmit={handleSignIn}>
           <div className="mb-4">
             <label htmlFor="email" className="block text-gray-700">Email</label>
